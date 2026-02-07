@@ -85,9 +85,10 @@ Developing industrial monitoring system for power plant operations (SaveLAN clie
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kimiollie&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kimiollie&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Kimiollie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimiollie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimiollie&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
 </div>
 
