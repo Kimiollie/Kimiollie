@@ -39,12 +39,12 @@
 
 ## 🚀 Featured Projects
 
-### 🍄 [Mushroom Hunter](https://github.com/nhidinh91/MushroomHunter) - ML Android App
+### 🍄 [Mushroom Hunter](https://github.com/Kimiollie/MushroomHunter) - ML Android App
 Android app with TensorFlow Lite for mushroom identification  
 **Tech:** Kotlin • Jetpack Compose • TensorFlow Lite • MVVM  
 **Role:** UI/UX Design, Frontend Logic
 
-### 📚 [Flashcard Study App](https://github.com/nhidinh91/flash_card)
+### 📚 [Flashcard Study App](https://github.com/Kimiollie/flash_card)
 Desktop flashcard app with spaced repetition learning  
 **Tech:** Java • JavaFX • JSON  
 **Role:** Full-stack development
@@ -74,7 +74,7 @@ Interactive European geography quiz game
 ## 💼 Current Work
 
 **⚙️ SCADA System Development** | *Jan 2026 - Present*  
-Developing industrial monitoring system for power plant operations (SaveLAN client)
+Developing an industrial monitoring system for power plant operations (SaveLAN client)
 - Implementing IEC 104 industrial protocol
 - Real-time data visualization & control interfaces
 - Network security for critical infrastructure
