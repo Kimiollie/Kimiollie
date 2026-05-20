@@ -60,8 +60,8 @@ Full-stack marketplace | [Live Demo →](https://metrade-frontend.onrender.com/)
 **Role:** Full-Stack Development
 
 ### ❤️ [Heart Rate Monitor](https://github.com/Kimollie/HeartRateMonitor)
-BLE-enabled IoT heart rate monitoring device  
-**Tech:** React • Bluetooth Low Energy • IoT Sensors  
+Embedded IoT heart rate monitoring device  
+**Tech:** MicroPython • IoT Sensors  
 **Role:** Led Development
 
 ### 🎮 [Crashless](https://github.com/Kimollie/Crashless)
